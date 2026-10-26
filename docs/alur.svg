@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="380" viewBox="0 0 1100 380">
+<defs><linearGradient id="ti" x1="0" x2="1"><stop offset="0" stop-color="#D6D1C8"/><stop offset="1" stop-color="#9E988E"/></linearGradient>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#31B3B0"/><stop offset="1" stop-color="#7EDDC6"/></linearGradient>
+<marker id="a" markerWidth="10" markerHeight="10" refX="8" refY="5" orient="auto"><path d="M0,0 L10,5 L0,10z" fill="#638EE1"/></marker></defs>
+<rect width="1100" height="380" rx="24" fill="#F4F6FA"/>
+<g font-family="Inter,Arial" fill="#13336E">
+<text x="150" y="40" text-anchor="middle" font-size="16" font-weight="700">1. Pilih frame</text>
+<text x="550" y="40" text-anchor="middle" font-size="16" font-weight="700">2. Atur di panel plugin</text>
+<text x="950" y="40" text-anchor="middle" font-size="16" font-weight="700">3. Mockup jadi</text></g>
+<rect x="85" y="64" width="130" height="282" rx="4" fill="#fff" stroke="#18A0FB" stroke-width="2"/>
+<text x="85" y="58" font-family="Inter,Arial" font-size="11" fill="#18A0FB">Beranda Siswa</text>
+<rect x="97" y="84" width="106" height="60" rx="10" fill="#31B3B0"/><rect x="97" y="154" width="106" height="36" rx="8" fill="#EEF2F6"/><rect x="97" y="198" width="106" height="36" rx="8" fill="#EEF2F6"/><rect x="97" y="242" width="106" height="36" rx="8" fill="#EEF2F6"/>
+<path d="M245 205 H 395" stroke="#638EE1" stroke-width="3" marker-end="url(#a)"/>
+<rect x="420" y="64" width="260" height="282" rx="10" fill="#fff" stroke="#DDE2EA"/>
+<g font-family="Inter,Arial" font-size="12" fill="#1E2433">
+<text x="436" y="90" font-weight="700">Perangkat</text>
+<text x="436" y="116">Model</text><rect x="560" y="102" width="104" height="22" rx="4" fill="none" stroke="#ccc"/><text x="568" y="117" font-size="11">iPhone 15 Pro</text>
+<text x="436" y="146">Warna bodi</text>
+<circle cx="568" cy="142" r="8" fill="#BEB8AE" stroke="#31B3B0" stroke-width="2"/><circle cx="590" cy="142" r="8" fill="#3B3B3D"/><circle cx="612" cy="142" r="8" fill="#EDECE8" stroke="#ccc"/><circle cx="634" cy="142" r="8" fill="#C2A68E"/><circle cx="656" cy="142" r="8" fill="#3E4757"/>
+<text x="436" y="176">Dynamic Island · Bayangan ✓</text>
+<text x="436" y="210" font-weight="700">Papan Showcase</text>
+<rect x="436" y="222" width="44" height="20" rx="10" fill="none" stroke="#ccc"/><text x="443" y="236" font-size="10">Siswa</text>
+<rect x="486" y="222" width="40" height="20" rx="10" fill="none" stroke="#ccc"/><text x="494" y="236" font-size="10">Guru</text>
+<rect x="532" y="222" width="42" height="20" rx="10" fill="none" stroke="#ccc"/><text x="539" y="236" font-size="10">Ungu</text>
+<text x="436" y="268">Judul</text><rect x="560" y="254" width="104" height="22" rx="4" fill="none" stroke="#ccc"/>
+<rect x="436" y="296" width="228" height="34" rx="6" fill="#31B3B0"/><text x="550" y="318" text-anchor="middle" fill="#fff" font-weight="700">Buat Mockup</text></g>
+<path d="M705 205 H 815" stroke="#638EE1" stroke-width="3" marker-end="url(#a)"/>
+<rect x="840" y="64" width="220" height="282" rx="16" fill="url(#bg)"/>
+<rect x="900" y="84" width="100" height="244" rx="22" fill="url(#ti)"/><rect x="904" y="88" width="92" height="236" rx="19" fill="#000"/><rect x="909" y="93" width="82" height="226" rx="15" fill="#fff"/>
+<rect x="932" y="99" width="36" height="10" rx="5" fill="#000"/>
+<rect x="917" y="118" width="66" height="40" rx="7" fill="#31B3B0"/><rect x="917" y="164" width="66" height="24" rx="5" fill="#EEF2F6"/><rect x="917" y="194" width="66" height="24" rx="5" fill="#EEF2F6"/><rect x="917" y="224" width="66" height="24" rx="5" fill="#EEF2F6"/>
+</svg>
